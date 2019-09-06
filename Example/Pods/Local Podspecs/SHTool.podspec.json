@@ -1,0 +1,22 @@
+{
+  "name": "SHTool",
+  "version": "0.1.0",
+  "summary": "A short description of SHTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gang976/SHTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gang976": "337343992@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/gang976/SHTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHTool/Classes/**/*"
+}

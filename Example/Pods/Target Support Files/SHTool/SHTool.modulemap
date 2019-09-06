@@ -1,0 +1,6 @@
+framework module SHTool {
+  umbrella header "SHTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

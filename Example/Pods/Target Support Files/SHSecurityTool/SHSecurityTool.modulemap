@@ -1,0 +1,6 @@
+framework module SHSecurityTool {
+  umbrella header "SHSecurityTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
